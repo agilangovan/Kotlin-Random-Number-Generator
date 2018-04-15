@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinRandNumGenerator</string>
+    <string name="center_text">0</string>
+    <string name="toast_text">Toast</string>
+    <string name="count_text">Count</string>
+    <string name="random_text">Random</string>
+    <string name="random_heading">Here is a random number between 0 and %1d.</string>
+    <string name="ran_num_text">R</string>
+</resources>
